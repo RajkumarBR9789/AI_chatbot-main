@@ -51,7 +51,4 @@ Feel free to use the trained model (`chatbot_model.h5`) in your applications to 
 **Note:** Update the intents in `intents.json` for customizing the chatbot's behavior and training it on new patterns.
 
 
-## Authors
-
-- [@kanishkaran](https://github.com/kanishkaran)
 
